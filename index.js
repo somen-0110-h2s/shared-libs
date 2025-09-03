@@ -1,1 +1,1 @@
-console.log("Sample Helper file");
+console.log("Sample file");
