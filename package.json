@@ -1,0 +1,21 @@
+{
+  "name": "shared-libs",
+  "version": "1.0.0",
+  "description": "Shared Libraries Submodule",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somen-0110-h2s/shared-libs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/somen-0110-h2s/shared-libs/issues"
+  },
+  "homepage": "https://github.com/somen-0110-h2s/shared-libs#readme"
+}
